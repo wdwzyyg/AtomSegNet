@@ -1,6 +1,6 @@
 import torch
 from torchvision.transforms import ToTensor
-from PyQt5 import QtGui
+#from PyQt5 import QtGui
 
 
 def GetIndexRangeOfBlk(height, width, blk_row, blk_col, blk_r, blk_c, over_lap = 0):
